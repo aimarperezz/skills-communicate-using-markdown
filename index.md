@@ -4,3 +4,6 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [] Brat summer ended
+- [x] Brat summer forever
+- [ ] Brat is not brat
